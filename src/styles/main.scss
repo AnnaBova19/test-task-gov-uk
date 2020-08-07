@@ -1,0 +1,9 @@
+@import "node_modules/govuk-frontend/govuk/all";
+
+body {
+  margin: 0;
+}
+
+html main {
+  min-height: calc(100vh - 363px);
+}
